@@ -47,7 +47,7 @@ Overall Progress  ████░░░░░░░░░░░░░░░░�
 ```
 📦 Celebal-Excellence-Internship-CEI-Program-2026
  ┣ 📓 week1_ManvadityaSingh.ipynb    ✅ Submitted
- ┣ 📓 week2_ManvadityaSingh.ipynb    ⏳ Upcoming
+ ┣ 📓 week2_ManvadityaSingh.ipynb    ✅ Submitted
  ┣ 📓 week3_ManvadityaSingh.ipynb    ⏳ Upcoming
  ┣ 📓 week4_ManvadityaSingh.ipynb    ⏳ Upcoming
  ┣ 📓 week5_ManvadityaSingh.ipynb    ⏳ Upcoming
@@ -99,7 +99,5 @@ Overall Progress  ████░░░░░░░░░░░░░░░░�
 Special thanks to **[Celebal Technologies](https://celebaltech.com)** for designing and providing this exceptional learning experience through the **CEI Program 2026**. This internship bridges the gap between academic knowledge and real-world application.
 
 ---
-
-*Made with ❤️ by Bhavin Prajapat · CEI Program 2026*
 
 </div>
