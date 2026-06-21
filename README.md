@@ -4,7 +4,7 @@
 
 [![Program](https://img.shields.io/badge/CEI_Program-2026-534AB7?style=for-the-badge&logoColor=white)](https://github.com/manvadityasingh16)
 [![Duration](https://img.shields.io/badge/Duration-8_Weeks-7F77DD?style=for-the-badge&logoColor=white)](https://github.com/manvadityasingh16)
-[![Progress](https://img.shields.io/badge/Progress-4%2F8_Complete-BA7517?style=for-the-badge&logoColor=white)](https://github.com/manvadityasingh16)
+[![Progress](https://img.shields.io/badge/Progress-5%2F8_Complete-BA7517?style=for-the-badge&logoColor=white)](https://github.com/manvadityasingh16)
 [![Status](https://img.shields.io/badge/Status-Active-D85A30?style=for-the-badge&logoColor=white)](https://github.com/manvadityasingh16)
 
 > *"Consistency is the key to continuous improvement."*
@@ -33,7 +33,7 @@ Overall Progress  ████░░░░░░░░░░░░░░░░�
 | 🟡 | **Week 02** | [Open Assignment →](https://github.com/manvadityasingh16/Celebal-repo/blob/main/week2-manvadityasingh.ipynb) | ✅ `Completed` |
 | 🟡 | **Week 03** | [Open Assignment →](https://github.com/manvadityasingh16/Celebal-repo/blob/main/week3_manvadityasingh.ipynb) | ✅ `Completed` |
 | 🟡 | **Week 04** | [Open Assignment →](https://github.com/manvadityasingh16/Celebal-repo/blob/main/week4_manvadityasingh.ipynb) | ✅ `Completed` |
-| 🟡 | **Week 05** | [Open Assignment →](#) | ⏳ `Pending` |
+| 🟡 | **Week 05** | [Open Assignment →](https://github.com/manvadityasingh16/Celebal-repo/blob/main/week5_manvadityasingh.ipynb) | ✅ `Completed` |
 | 🟡 | **Week 06** | [Open Assignment →](#) | ⏳ `Pending` |
 | 🟡 | **Week 07** | [Open Assignment →](#) | ⏳ `Pending` |
 | 🟡 | **Week 08** | [Open Assignment →](#) | ⏳ `Pending` |
@@ -50,7 +50,7 @@ Overall Progress  ████░░░░░░░░░░░░░░░░�
  ┣ 📓 week2_ManvadityaSingh.ipynb    ✅ Submitted
  ┣ 📓 week3_ManvadityaSingh.ipynb    ✅ Submitted
  ┣ 📓 week4_ManvadityaSingh.ipynb    ✅ Submitted
- ┣ 📓 week5_ManvadityaSingh.ipynb    ⏳ Upcoming
+ ┣ 📓 week5_ManvadityaSingh.ipynb    ✅ Submitted
  ┣ 📓 week6_ManvadityaSingh.ipynb    ⏳ Upcoming
  ┣ 📓 week7_ManvadityaSingh.ipynb    ⏳ Upcoming
  ┣ 📓 week8_ManvadityaSingh.ipynb    ⏳ Upcoming
